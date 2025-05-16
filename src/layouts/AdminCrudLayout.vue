@@ -15,7 +15,7 @@ class="sidenav bg-gray-700 navbar navbar-vertical navbar-expand-xs border-0 bord
           aria-hidden="true"
           id="iconSidenav"
         ></i>
-        <a class="navbar-brand m-0" href="/" target="_blank">
+        <a class="navbar-brand m-0"  target="_blank">
           <img
             src="/plantilla_argon/assets/img/primeLogo.png"
             class="navbar-brand-img h-100"
